@@ -1,0 +1,11 @@
+path: C:\Users\llj\Desktop\Pistachio\pis
+
+train: C:\Users\llj\Desktop\Pistachio\pis\images\train
+val: C:\Users\llj\Desktop\Pistachio\pis\images\val
+
+
+nc: 2
+# Classes
+names:
+  0: No
+  1: Yes
